@@ -1,11 +1,9 @@
 # Игра танчики на Delphi
 
-Данная игра делалась для курсового проекта в колледже, так что почему бы её не выложить.
+Данная игра делалась для курсового проекта в колледже, так что почему бы её не выложить. Для игры просто скачайте репозиторий и запустите exe файл. Код проекта сосвсем грязный и не красивый, что не был отпубликован здесь. Но если кому - то очень нужно, то можете написать в ЛС в ДС. Если вдруг заметите, что всякие объекты странно здвинуты, то в параметрах экрана поставьте 100%
 
-Для игры просто скачайте репозиторий и запустите exe файл.
+<img width="1081" height="753" alt="image" src="https://github.com/user-attachments/assets/f002c2f4-6fff-4a94-bf4c-aeea65f59945" />
 
-![](https://media.discordapp.net/attachments/1103749162815729696/1258135000109289512/11ca204cd11099d0.PNG?ex=6686f107&is=66859f87&hm=8d5423c0b80ebda1c964fa3a3ecf695de75fd7ad9d99ab60e71086d7e10453f4&=&format=webp&quality=lossless&width=857&height=600)
+<img width="868" height="597" alt="image" src="https://github.com/user-attachments/assets/f7d23bf0-2b88-4788-9511-752ff049f120" />
 
-![](https://media.discordapp.net/attachments/1103749162815729696/1258135033705926717/6ad97ff0a8301188.PNG?ex=6686f10f&is=66859f8f&hm=95193a43202d6ab055bf76702d9deecc281e628629bfe11131d5defb1398d772&=&format=webp&quality=lossless&width=635&height=437)
-
-![](https://media.discordapp.net/attachments/1103749162815729696/1258135098667040818/0d71fce32b1d2e25.PNG?ex=6686f11e&is=66859f9e&hm=154bc51bb4792b90b542418e4f6ecd9cbce24d2cc997cea45b92c6136f582f8c&=&format=webp&quality=lossless&width=815&height=600)
+<img width="860" height="635" alt="image" src="https://github.com/user-attachments/assets/b3004c31-18ae-49ec-92e3-e66dbae6d005" />
